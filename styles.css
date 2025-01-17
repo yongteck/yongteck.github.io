@@ -3,6 +3,8 @@
 /* Use CSS selectors and rules to style your portfolio page */
 body {
   font-family: sans-serif;
+  text-align: center;
+  background-color: #303010;
 }
 table {
   border-collapse: collapse; /* Ensures borders are merged */
