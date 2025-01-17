@@ -24,12 +24,12 @@ th {
 .title {
       font-size: 32px; /* Makes the text larger */
       font-weight: bold; /* Makes the text bold */
-      color: #FFFF90; 
+      color: #101010; 
       text-align: center; /* Centers the text */
       text-transform: uppercase; /* Makes the text uppercase */
       padding: 10px; /* Adds padding around the text */
-      background-color: #00BBBB; /* Light gray background */
-      border: 2px solid #FF00FF; /* Adds a green border around the title */
+      background-color: #3030FB; /* Light gray background */
+      border: 2px solid #FFFFFF; /* Adds a green border around the title */
       border-radius: 5px; /* Rounds the corners of the border */
       box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
       margin: 20px 0; /* Adds top and bottom margin */
