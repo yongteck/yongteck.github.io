@@ -17,7 +17,7 @@ th {
   background-color: #f2f2f2; /* Optional: Light background color for header */
 }
 .title {
-      font-size: 32px; /* Makes the text larger */
+      font-size: 64px; /* Makes the text larger */
       font-weight: bold; /* Makes the text bold */
       color: #FFAA00; 
       text-align: center; /* Centers the text */
