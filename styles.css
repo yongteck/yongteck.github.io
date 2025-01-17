@@ -2,7 +2,7 @@
 
 /* Use CSS selectors and rules to style your portfolio page */
 body {
-  font-family: comic-sans;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
   text-align: center;
   background-color: #A0A060;
   font-weight: bold;
