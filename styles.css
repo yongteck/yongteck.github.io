@@ -19,7 +19,7 @@ th {
 .title {
       font-size: 21px; /* Makes the text larger */
       font-weight: bold; /* Makes the text bold */
-      color: #FFBA00; 
+      color: #FFFF90; 
       text-align: center; /* Centers the text */
       text-transform: uppercase; /* Makes the text uppercase */
       padding: 10px; /* Adds padding around the text */
@@ -28,4 +28,5 @@ th {
       border-radius: 5px; /* Rounds the corners of the border */
       box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
       margin: 20px 0; /* Adds top and bottom margin */
+      display: inline-block; /* Makes the element only as wide as the content */
     }
