@@ -2,9 +2,10 @@
 
 /* Use CSS selectors and rules to style your portfolio page */
 body {
-  font-family: sans-serif;
+  font-family: comic-sans;
   text-align: center;
   background-color: #A0A060;
+  font-weight: bold;
   font-size: 24px;
   color: #DDDDDD;
 }
